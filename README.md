@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Tiffany and I am starting out on GitHub!
 
 <!--
 **tiffany823/tiffany823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
